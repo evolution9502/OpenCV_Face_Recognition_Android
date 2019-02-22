@@ -1,0 +1,72 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\OpenCV-Face-Recognition-Android-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\OpenCV-Face-Recognition-Android-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,4,8,9,10,7,5,6",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "56,114,389,446,507,304,167,234",
+                        "endColumns": "57,52,56,60,66,84,66,69",
+                        "endOffsets": "109,162,441,502,569,384,229,299"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "248,306,359,416,477,544,629,696",
+                        "endColumns": "57,52,56,60,66,84,66,69",
+                        "endOffsets": "301,354,411,472,539,624,691,761"
+                    }
+                },
+                {
+                    "source": "D:\\OpenCV-Face-Recognition-Android-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "88,146",
+                        "endColumns": "57,55",
+                        "endOffsets": "141,197"
+                    },
+                    "to": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "134,192",
+                        "endColumns": "57,55",
+                        "endOffsets": "187,243"
+                    }
+                },
+                {
+                    "source": "D:\\OpenCV-Face-Recognition-Android-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15,19",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "186,509,680",
+                        "endLines": "12,17,21",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "471,670,844"
+                    },
+                    "to": {
+                        "startLines": "14,21,24",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "766,1056,1222",
+                        "endLines": "20,23,26",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "1051,1217,1386"
+                    }
+                },
+                {
+                    "source": "D:\\OpenCV-Face-Recognition-Android-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,94",
+                        "endColumns": "38,39",
+                        "endOffsets": "89,129"
+                    }
+                }
+            ]
+        }
+    ]
+}
